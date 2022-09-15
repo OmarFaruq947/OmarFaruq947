@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Omar Faruq</h1>
-<h4 align="center">A self-thought web developer. My core technology stack is MERN (MongoDB, Express, React, Node). I have been working on this field almost around 3+ years. 😊</h4>
+<h4 align="center">A self-thought web developer. My core technology stack is MERN (MongoDB, Express, React, Node). I have been working on this field almost around 2 years. 😊</h4>
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
