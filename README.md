@@ -39,6 +39,8 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq947&card_width=550)](https://github.com/OmarFaruq947)
 
+[![](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **OmarFaruq947/OmarFaruq947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
