@@ -1,59 +1,23 @@
-<h1 align="center">Hi 👋, I'm Md. Omar Faruq</h1>
-<h4 align="center">A self-thought web developer. My core technology stack is MERN (MongoDB, Express, React, Node). I have been working on this field almost around 2 years. 😊</h4>
-<h3 align="center">A passionate Front End developer from Bangladesh</h3>
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFHrqw5dncMxg/profile-displaybackgroundimage-shrink_350_1400/0/1700244168933?e=1705536000&v=beta&t=-DQNIT90D-2z_FEhoE8AitJWlPgNLNZwBSpqgrSwY54)
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+<h1 align="center">< Hi 👋, I'm Md. Omar Faruq  /> </h1>
+<h3 align="center">A passionate Junior Software engineer from Bangladesh</h3>
+<h5 align="center">A self-thought web developer. My core technology stack is MERN & my main programming language is JavaScript</h5>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 All of my projects are available at [Portfolio]()
-
-- 📫 How to reach me **omarfaruq.bauet.bd@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dUAB85dbes8e5vhQgXCXsoLXRXiSOnRB/view?usp=sharing)
-
-### Connect with me:
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-omar-faruq-7458b819a/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/profile.php?id=100046344515110&sk=about&section=contact-info&force-refresh)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@omarfaruq-bplus)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/16181740/md-omar-faruq-360?tab=profile)
-
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a color="fff" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact" alt="OmarFaruq947" /></p>
-<br/>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarFaruq947&show_icons=true&locale=en" alt="OmarFaruq947" /></p>
-
-<br/>
-<br/>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq947&card_width=550)](https://github.com/OmarFaruq947)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=Next.js&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/express-EEEEEE?style=flat-square&logo=express&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![mongoose](https://img.shields.io/badge/mongoose-EEEEEE?style=flat-square&logo=mongoose&logoColor=9F3232) ![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=fff) ![redux](https://img.shields.io/badge/redux-7A4FBD?style=flat-square&logo=redux&logoColor=fff) ![firebase](https://img.shields.io/badge/firebase-2177EA?style=flat-square&logo=firebase)
 
 [![](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
-<!--
-**OmarFaruq947/OmarFaruq947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>👉 Hi, I am Omar Faruq, a passionate Full Stack Web Developer. I studied information and communication engineering, at Bangladesh Army University of Engineering and Technology (BAUET). I am a curious learner. I love to learn new things. and of course A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I love programming and solving problems. I count myself as a hardworking person. I always like to do challenging work.</p>
 
-Here are some ideas to get you started:
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact&card_width=750)](https://github.com/OmarFaruq947)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs card](https://github-readme-stats.vercel.app/api?username=OmarFaruq947&show_icons=true&locale=en&card_width=750)](https://github.com/OmarFaruq947)
 
-# OmarFaruq947
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq947&card_width=750)](https://github.com/OmarFaruq947)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=OmarFaruq947&card_width=750)
+
+### Connect with me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-omar-faruq-7458b819a/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046344515110) [![website](https://img.shields.io/badge/website-1DA1F2?style=flat-square&logo=web&logoColor=white)](https://mdomarfaruq.netlify.app/) [![email](https://img.shields.io/badge/omarfaruq.bauet.bd@gmail.com-005C84?style=flat-square&logo=gmail&logoColor=white)](omarfaruq.bauet.bd@gmail.com)
