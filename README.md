@@ -14,7 +14,6 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api?username=OmarFaruq947&show_icons=true&locale=en&card_width=750)](https://github.com/OmarFaruq947)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq947&card_width=750)](https://github.com/OmarFaruq947)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=OmarFaruq947&card_width=750)
 
