@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFHrqw5dncMxg/profile-displaybackgroundimage-shrink_350_1400/0/1700244168933?e=1711584000&v=beta&t=PAdVlxnWFSXrDf0BEkZeTlPGO81ZMQp0cdF3iLzt6ws)
+<img src="./img/LinkedIn.png" alt="banner" />
 
 <h1 align="center">< Hi 👋, I'm Md. Omar Faruq  /> </h1>
 <h3 align="center">A passionate Junior Software engineer from Bangladesh</h3>
