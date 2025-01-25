@@ -18,6 +18,14 @@
 
 <p>👉 Hi, I am Omar Faruq, a passionate Full Stack Web Developer. I studied information and communication engineering, at Bangladesh Army University of Engineering and Technology (BAUET). I am a curious learner. I love to learn new things. and of course A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I love programming and solving problems. I count myself as a hardworking person. I always like to do challenging work.</p>
 
+#### IMPORTANT  LINKS:
+
+● GitHub: https://github.com/OmarFaruq947
+● LeetCode :  https://leetcode.com/u/OmarFaruq947/
+● CodeForces:  https://codeforces.com/profile/omarFaruq6600
+● NinjasCode360 :  https://www.naukri.com/code360/profile/OmarFaruq
+● portfolio:  https://mdomarfaruq.netlify.app/
+
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact&card_width=750)](https://github.com/OmarFaruq947)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api?username=OmarFaruq947&show_icons=true&locale=en&card_width=750)](https://github.com/OmarFaruq947)
