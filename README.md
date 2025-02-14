@@ -14,17 +14,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-omar-faruq-7458b819a/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046344515110) [![website](https://img.shields.io/badge/website-1DA1F2?style=flat-square&logo=web&logoColor=white)](https://mdomarfaruq.netlify.app/) [![email](https://img.shields.io/badge/omarfaruq.bauet.bd@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](https://mdomarfaruq.netlify.app/)
 
-[![](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
-[![Profile Views](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947.OmarFaruq947)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OmarFaruq947&title=Profile%20Views)
-# OmarFaruq947's Profile
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947.OmarFaruq947)
+
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OmarFaruq947&title=Profile%20Views)
 
 
