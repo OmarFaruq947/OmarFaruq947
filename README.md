@@ -17,6 +17,17 @@
 [![](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947)
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+[![Profile Views](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947.OmarFaruq947)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OmarFaruq947&title=Profile%20Views)
+# OmarFaruq947's Profile
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947.OmarFaruq947)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OmarFaruq947&title=Profile%20Views)
+
+
 <p>👉 Hi, I am Omar Faruq, a passionate Full Stack Web Developer. I studied information and communication engineering, at Bangladesh Army University of Engineering and Technology (BAUET). I am a curious learner. I love to learn new things. and of course A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I love programming and solving problems. I count myself as a hardworking person. I always like to do challenging work.</p>
 
 #### IMPORTANT  LINKS:
