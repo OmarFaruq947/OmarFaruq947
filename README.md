@@ -15,6 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-omar-faruq-7458b819a/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046344515110) [![website](https://img.shields.io/badge/website-1DA1F2?style=flat-square&logo=web&logoColor=white)](https://mdomarfaruq.netlify.app/) [![email](https://img.shields.io/badge/omarfaruq.bauet.bd@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](https://mdomarfaruq.netlify.app/)
 
 [![](https://visitcount.itsvg.in/api?id=OmarFaruq947&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=OmarFaruq947)
 
 <p>👉 Hi, I am Omar Faruq, a passionate Full Stack Web Developer. I studied information and communication engineering, at Bangladesh Army University of Engineering and Technology (BAUET). I am a curious learner. I love to learn new things. and of course A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I love programming and solving problems. I count myself as a hardworking person. I always like to do challenging work.</p>
 
