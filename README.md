@@ -32,4 +32,10 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact&card_width=750)](https://github.com/OmarFaruq947)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&hide=javascript,html,css&show_icons=true&locale=en&layout=compact&card_width=750)](https://github.com/OmarFaruq947)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact&card_width=750&cache_breaker=1)](https://github.com/OmarFaruq947)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact&card_width=750&token=YOUR_GITHUB_TOKEN)](https://github.com/OmarFaruq947)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=OmarFaruq947&show_icons=true&locale=en&layout=compact&card_width=750&langs_count=5)](https://github.com/OmarFaruq947)
+
 [![Top Langs card](https://github-readme-stats.vercel.app/api?username=OmarFaruq947&show_icons=true&locale=en&card_width=750)](https://github.com/OmarFaruq947)
